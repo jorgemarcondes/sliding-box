@@ -1,0 +1,7 @@
+.box {
+    height: 50;
+    /*todo: width should match height*/
+    /*todo: background color, ask Henry*/
+    display: block;
+    position: absolute;
+}
